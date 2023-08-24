@@ -1,0 +1,108 @@
+{
+  "users": [
+    {
+      "name": "Seth Omari",
+      "email": "seth@test.com",
+      "password": "seth@123",
+      "id": 1
+    },
+    {
+      "name": "Lizz",
+      "email": "lizz@test.com",
+      "password": "lizz@123",
+      "id": 2
+    },
+    {
+      "name": "James",
+      "email": "james@test.com",
+      "password": "james@123",
+      "id": 3
+    },
+    {
+      "name": "Frank",
+      "email": "frank@test.com",
+      "password": "frank@123",
+      "id": 4
+    },
+    {
+      "name": "Albert",
+      "email": "albert@test.com",
+      "password": "albert@123",
+      "id": 5
+    },
+    {
+      "name": "Mativo",
+      "email": "mativo@test.com",
+      "password": "Mativo@123",
+      "id": 6
+    },
+    {
+      "name": "Batman",
+      "email": "batman@test.com",
+      "password": "batman@123",
+      "id": 7
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 8
+    },
+    {
+      "name": "",
+      "email": "",
+      "password": "",
+      "id": 9
+    },
+    {
+      "name": "Lenna",
+      "email": "lenna@test.com",
+      "password": "lenna@123",
+      "id": 10
+    },
+    {
+      "name": "Mathe",
+      "email": "mathe@test.com",
+      "password": "mathe@123",
+      "id": 11
+    },
+    {
+      "name": "Mathe",
+      "email": "mathe@test.com",
+      "password": "mathe@123",
+      "id": 12
+    }
+  ],
+  "restaurants": [
+    {
+      "name": "Glevvy Fast Foods",
+      "address": "Old station",
+      "contact": "0794273096",
+      "id": 1
+    },
+    {
+      "name": "Chyll Sweets",
+      "address": "Mombasa rd",
+      "contact": "0757938005",
+      "id": 4
+    },
+    {
+      "name": "KFC",
+      "address": "thika road",
+      "contact": "36363",
+      "id": 5
+    },
+    {
+      "name": "Art caffe",
+      "address": "Bypass",
+      "contact": "7895623",
+      "id": 6
+    },
+    {
+      "name": "Mathe Foods",
+      "address": "Ngara RD",
+      "contact": "076215632566",
+      "id": 7
+    }
+  ]
+}
